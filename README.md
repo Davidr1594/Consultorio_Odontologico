@@ -47,7 +47,7 @@ El objetivo principal del proyecto es desarrollar un sistema de gestión de un C
 ![AltaUsuariosOdonto](https://github.com/Davidr1594/Consultorio_Odontologico/assets/169404551/89419311-06d8-4c33-a537-a2e6195377a9)
 
 
-*Mismas funciones están implementadas en todo el menú.(no todas las opciones tienen implementacion). el objetivo fue poder realizar un crud completo usando una pagina html de plantilla.
+*Mismas funciones están implementadas en todo el menú(no todas las opciones tienen implementacion). El objetivo fue poder realizar un CRUD completo usando una pagina html de plantilla.
 
 ### Arquitectura del Proyecto
 
