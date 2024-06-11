@@ -59,7 +59,7 @@ El objetivo principal del proyecto es desarrollar un sistema de gestión de un C
 #### 2. Capa de Control:
 
 •Los Servlets gestionan las solicitudes HTTP y actúan como controladores de la aplicación.\
-•Cada servlet se encarga de diferentes partes del sistema (productos, categorías, stock, etc.).
+•Cada servlet se encarga de diferentes partes del sistema (usuarios, odontologos, horarios, etc.).
 
 #### 3. Capa de Persistencia:
 
