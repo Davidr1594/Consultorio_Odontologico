@@ -7,9 +7,9 @@ El objetivo principal del proyecto es desarrollar un sistema de gestión de un C
 
 ### Tecnologías Utilizadas
 
-• Java Web: Para la implementación de la lógica del lado del servidor.
-• JSP (JavaServer Pages): Para la creación de las vistas dinámicas del sistema.
-• JPA (Java Persistence API) con EclipseLink: Para la gestión de la persistencia y el acceso a la base de datos.
+• Java Web: Para la implementación de la lógica del lado del servidor.\
+• JSP (JavaServer Pages): Para la creación de las vistas dinámicas del sistema.\
+• JPA (Java Persistence API) con EclipseLink: Para la gestión de la persistencia y el acceso a la base de datos.\
 • Servlets: Para controlar la lógica del flujo de la aplicación y las solicitudes HTTP.
 
 ### Descripción de las Funcionalidades
